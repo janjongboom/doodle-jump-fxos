@@ -1,6 +1,6 @@
 # Doodle Jump for Firefox OS
 
-Original HTML5 version for desktop is built by 
+Original HTML5 version for desktop is built by
 [Kushagra Agarwal](http://twitter.com/solitarydesigns/) and
 [Rishabh](http://twitter.com/_rishabhp).
 
