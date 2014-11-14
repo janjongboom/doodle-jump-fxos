@@ -1,0 +1,9 @@
+{
+  "name": "Doodle",
+  "description": "Simple game!",
+  "developer": {
+    "name": "Bangladeshi people"
+  },
+  "launch_path": "/index.html",
+  "orientation": "portrait"
+}
